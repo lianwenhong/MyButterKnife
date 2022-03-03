@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MyButterKnife.iml" filepath="$PROJECT_DIR$/.idea/modules/MyButterKnife.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/annotation/MyButterKnife.annotation.iml" filepath="$PROJECT_DIR$/.idea/modules/annotation/MyButterKnife.annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/annotation_compiler/MyButterKnife.annotation_compiler.iml" filepath="$PROJECT_DIR$/.idea/modules/annotation_compiler/MyButterKnife.annotation_compiler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MyButterKnife.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MyButterKnife.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/butter_knife/MyButterKnife.butter_knife.iml" filepath="$PROJECT_DIR$/.idea/modules/butter_knife/MyButterKnife.butter_knife.iml" />
+    </modules>
+  </component>
+</project>

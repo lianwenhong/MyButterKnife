@@ -12,4 +12,6 @@ dependencies {
     // 用于向Google注册注解解析器，否则注解解析器无法生效
     annotationProcessor'com.google.auto.service:auto-service:1.0-rc4'
     compileOnly 'com.google.auto.service:auto-service:1.0-rc3'
+
+    implementation 'com.squareup:javapoet:1.9.0'
 }
